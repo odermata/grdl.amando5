@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android=
+    "http://schemas.android.com/apk/res/android">
+    
+  <PreferenceCategory
+      android:title=
+      "@string/txt_einstell_cat_title_allg">
+    <EditTextPreference
+      android:key="nickname"
+      android:title=
+         "@string/txt_einstell_nickname"
+      android:defaultValue="" />
+
+  </PreferenceCategory>
+  
+  <PreferenceCategory
+      android:title=
+      "@string/txt_einstell_cat_title_server">
+    <ListPreference
+      android:key="lst_serverort"
+      android:defaultValue="@string/txt_einstell_serverort_default"
+      android:title="@string/txt_einstell_serverort"
+      android:summary="@string/txt_einstell_serverort_text"
+      android:entries="@array/serverort"
+      android:entryValues="@array/serverort_werte" /> 
+  </PreferenceCategory>
+      
+  <PreferenceCategory
+      android:title=
+      "@string/txt_einstell_cat_title_position">
+    <EditTextPreference
+      android:key="min_zeit"
+      android:title=
+         "@string/txt_einstell_gps_min_zeit"
+      android:defaultValue="15" />
+    <EditTextPreference
+      android:key="min_distanz"
+      android:title=
+         "@string/txt_einstell_gps_min_dist"
+      android:defaultValue="10" />  
+  </PreferenceCategory>
+        
+</PreferenceScreen>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_search.png",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\drawable\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.71\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_locate.png",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\drawable\\ic_action_locate.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.71\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.71\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\drawable\\amando_balloon.png",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\drawable\\amando_balloon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.71\\res\\drawable\\common_signin_btn_text_light.xml"
+    }
+]

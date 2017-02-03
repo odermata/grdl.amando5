@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\layout\\geokontakte_auflisten.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\layout\\geokontakte_auflisten.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\layout\\startseite.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\layout\\startseite.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\layout\\hilfe_anzeigen.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\layout\\hilfe_anzeigen.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\layout\\karte_anzeigen.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\layout\\karte_anzeigen.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\layout\\position_senden.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\layout\\position_senden.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\layout\\geokontakt_bearbeiten.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\layout\\geokontakt_bearbeiten.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\layout\\geokontakt_anzeigen.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\layout\\geokontakt_anzeigen.xml"
+    }
+]

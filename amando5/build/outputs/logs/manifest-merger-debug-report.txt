@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:8:3-64
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:8:20-62
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:10:3-95
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:10:20-93
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:11:3-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:11:20-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:12:3-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:12:20-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:13:3-78
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:13:20-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:15:3-73
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:15:20-70
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:17:3-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:17:20-65
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:18:3-65
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:18:20-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:20:3-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:20:20-67
+uses-feature#0x00020000
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:22:3-24:32
+	android:glEsVersion
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:23:7-39
+	android:required
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:24:7-30
+application
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:26:3-90:17
+MERGED from [grdl.amando5:visioneraasyncdb:unspecified] D:\AndroidStudioProjects\grdl.amando5\amando5\build\intermediates\exploded-aar\grdl.amando5\visioneraasyncdb\unspecified\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services:6.1.71] D:\AndroidStudioProjects\grdl.amando5\amando5\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] D:\AndroidStudioProjects\grdl.amando5\amando5\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:29:7-39
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:27:7-33
+	android:icon
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:28:7-43
+	android:theme
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:30:7-41
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:32:5-34:61
+	android:value
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:34:3-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:33:3-52
+meta-data#com.google.android.gms.version
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:37:5-38:65
+	android:value
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:38:9-62
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:37:16-61
+activity#de.visionera.androidbuch.amando5.gui.Startseite
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:40:5-47:16
+	android:label
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:42:9-41
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:41:9-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:43:7-46:23
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:44:9-61
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:44:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:45:9-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:45:19-66
+activity#de.visionera.androidbuch.amando5.gui.HilfeAnzeigen
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:49:5-83
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:49:15-80
+activity#de.visionera.androidbuch.amando5.gui.KarteAnzeigen
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:51:5-52:65
+	android:label
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:52:15-63
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:51:15-80
+activity#de.visionera.androidbuch.amando5.gui.GeoKontakteAuflisten
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:54:5-90
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:54:15-87
+activity#de.visionera.androidbuch.amando5.gui.GeoKontaktAnzeigen
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:56:5-63:16
+	android:label
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:57:15-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:56:15-85
+intent-filter#.intent.action.ZEIGE_GEOKONTAKT+android.intent.category.DEFAULT
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:58:7-62:20
+action#.intent.action.ZEIGE_GEOKONTAKT
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:59:6-60:41
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:59:14-65
+category#android.intent.category.DEFAULT
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:61:6-65
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:61:16-62
+activity#de.visionera.androidbuch.amando5.gui.GeoKontaktBearbeiten
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:65:5-66:72
+	android:label
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:66:15-70
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:65:15-87
+activity#de.visionera.androidbuch.amando5.gui.PositionSenden
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:67:5-68:66
+	android:label
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:68:15-64
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:67:15-81
+activity#de.visionera.androidbuch.amando5.gui.EinstellungenBearbeiten
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:70:5-93
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:70:15-90
+service#de.visionera.androidbuch.amando5.services.EmpfangePositionService
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:72:5-73:73
+	android:permission
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:73:14-70
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:72:14-94
+service#de.visionera.androidbuch.amando5.services.SendePositionService
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:75:5-94
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:75:14-91
+service#de.visionera.androidbuch.amando5.services.GeoPositionsService
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:76:5-93
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:76:14-90
+receiver#de.visionera.androidbuch.amando5.receiver.SmsBroadcastReceiver
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:78:5-89:16
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:78:15-92
+intent-filter#android.intent.action.DATA_SMS_RECEIVED+android.intent.category.DEFAULT
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:82:7-88:24
+action#android.intent.action.DATA_SMS_RECEIVED
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:83:10-75
+	android:name
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:83:18-72
+data
+ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:85:10-39
+	android:scheme
+		ADDED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml:85:16-36
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [grdl.amando5:visioneraasyncdb:unspecified] D:\AndroidStudioProjects\grdl.amando5\amando5\build\intermediates\exploded-aar\grdl.amando5\visioneraasyncdb\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:6.1.71] D:\AndroidStudioProjects\grdl.amando5\amando5\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] D:\AndroidStudioProjects\grdl.amando5\amando5\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\grdl.amando5\amando5\src\main\AndroidManifest.xml

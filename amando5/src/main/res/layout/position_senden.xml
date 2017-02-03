@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content">
+  
+  <TextView
+    android:id="@+id/tx_name_label"
+    android:text="@string/txt_geokontakt_name"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true" />
+  <TextView
+    android:id="@+id/tx_name"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="21sp"
+    android:layout_below="@id/tx_name_label" />
+    
+  <TextView
+    android:id="@+id/tx_telefon_label"
+    android:text="@string/txt_geokontakt_telefonnummer"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/tx_name" />
+  <TextView
+    android:id="@+id/tx_telefon"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="21sp"
+    android:layout_below="@id/tx_telefon_label" />
+    
+  <TextView
+    android:id="@+id/tx_stichwort_label"
+    android:text="@string/txt_geokontakt_stichwort"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/tx_telefon" />
+  <EditText
+    android:id="@+id/tx_stichwort"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:inputType="textCapWords"
+    android:layout_below="@id/tx_stichwort_label" />
+
+  <TextView
+    android:id="@+id/tx_letzte_position_label"
+    android:text="@string/txt_geokontakt_letzte_position"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/tx_stichwort" />
+  <TextView
+    android:id="@+id/tx_letzte_position"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_below="@id/tx_letzte_position_label" />
+
+  <CheckBox
+    android:id="@+id/positionNachverfolgen"
+    android:text="@string/txt_position_aktualisieren"
+    android:layout_below="@id/tx_letzte_position"
+    android:layout_width="wrap_content"
+    android:textColor="@color/schwarz"
+    android:layout_height="wrap_content"
+    android:checked="true" />
+  <Button
+    android:id="@+id/sf_position_senden"
+    android:text="@string/sf_position_senden"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/positionNachverfolgen"
+    android:onClick="onClickPositionSenden" />
+        
+</RelativeLayout>

@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        ReleaseConf {
+            keyAlias 'visionera-Zertifikat'
+            keyPassword 'androidbuch5'
+            storeFile file(targetKeystorePath+"visionera.keystore.jks")
+            storePassword 'androidbuch5'
+        }
+    }
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+    defaultConfig {
+        applicationId "de.visionera.androidbuch.amando5"
+        minSdkVersion 14
+        targetSdkVersion 21
+    }
+    lintOptions {
+        abortOnError false
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.ReleaseConf
+        }
+    }
+}
+
+dependencies {
+    compile project(':visioneraasyncdb')
+    compile 'com.android.support:support-v4:21.0.+'
+    compile 'com.google.android.gms:play-services:6.1.71'
+    // NEU
+    androidTestCompile 'com.jayway.android.robotium:robotium-solo:5.2.1'
+}

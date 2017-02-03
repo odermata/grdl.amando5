@@ -1,0 +1,17 @@
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android"
+>
+  <item
+    android:id="@+id/opt_geokontakt_details"
+    android:title="@string/men_geokontakt_details"
+  />
+  <item
+    android:id="@+id/opt_geokontakt_bearbeiten"
+    android:title="@string/men_geokontakt_bearbeiten"
+  />
+  <item
+    android:id="@+id/opt_geokontakt_loeschen"
+    android:title="@string/men_geokontakt_loeschen"
+  />
+  
+</menu>

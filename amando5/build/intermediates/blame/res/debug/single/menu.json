@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\menu\\geokontakt_auflisten.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\menu\\geokontakt_auflisten.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\menu\\hauptmenue.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\menu\\hauptmenue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\menu\\karte_anzeigen.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\menu\\karte_anzeigen.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\menu\\geokontakt_auflisten_kontext.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\menu\\geokontakt_auflisten_kontext.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\menu\\einstellungen.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\menu\\einstellungen.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\menu\\geokontakt_anzeigen.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\menu\\geokontakt_anzeigen.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\menu\\startseite_contextmenue.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\menu\\startseite_contextmenue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\res\\merged\\debug\\menu\\geokontakt_bearbeiten.xml",
+        "source": "D:\\AndroidStudioProjects\\grdl.amando5\\amando5\\src\\main\\res\\menu\\geokontakt_bearbeiten.xml"
+    }
+]

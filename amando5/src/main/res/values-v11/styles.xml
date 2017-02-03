@@ -1,0 +1,11 @@
+<resources>
+
+  <style name="AmandoTheme"
+         parent="android:Theme.Holo.Light">  
+    <item name="android:windowBackground">@color/hintergrund</item>    
+    <item name="android:textViewStyle">@style/TextStyleNormal</item>  
+    <item name="android:listViewStyle">@style/ListView</item>       
+    <item name="android:buttonStyle">@style/Schaltflaeche</item>                               
+  </style>   
+
+</resources>

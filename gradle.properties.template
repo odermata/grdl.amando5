@@ -1,0 +1,6 @@
+# Bitte Kopie dieser Datei erstellen und lokal anpassen.
+# Die Kopie bitte NICHT einchecken!
+#
+
+# Pfad zum keystore (leer => Projektpfad wird genutzt)
+targetKeystorePath=

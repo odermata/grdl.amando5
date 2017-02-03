@@ -1,0 +1,23 @@
+<menu xmlns:android=
+  "http://schemas.android.com/apk/res/android">
+  <item
+    android:id="@+id/opt_navigation_starten"
+    android:title="@string/men_navigation_starten"
+    android:icon="@android:drawable/ic_menu_directions"    
+  />
+  <item
+    android:id="@+id/opt_geokontakt_anrufen"
+    android:title="@string/men_geokontakt_anrufen"
+    android:icon="@android:drawable/ic_menu_call"    
+  />
+  <item
+    android:id="@+id/opt_position_senden"
+    android:title="@string/men_position_senden"
+    android:icon="@android:drawable/ic_menu_send" 
+  />  
+  <item
+    android:id="@+id/opt_hilfe"
+    android:title="@string/men_hilfe_anzeigen"
+    android:icon="@android:drawable/ic_menu_help"
+  />
+</menu>

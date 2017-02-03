@@ -1,0 +1,15 @@
+<menu xmlns:android=
+    "http://schemas.android.com/apk/res/android"
+>
+  <item
+    android:id="@+id/opt_speichern"
+    android:title="@string/men_speichern"
+    android:icon="@android:drawable/ic_menu_save"
+  />
+  <item
+    android:id="@+id/opt_hilfe"
+    android:title="@string/men_hilfe_anzeigen"
+    android:icon="@android:drawable/ic_menu_help"
+  />
+  
+</menu>

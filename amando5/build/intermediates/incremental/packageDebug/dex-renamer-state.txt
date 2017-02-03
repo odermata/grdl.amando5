@@ -1,0 +1,7 @@
+#Fri Feb 03 20:17:33 CET 2017
+base.0=D\:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_71e874fd52538a5925ab50c19f7e990e591cb840
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1ea39fb51ee36004ea684c44a0310f2e5ff7af3a\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1ea39fb51ee36004ea684c44a0310f2e5ff7af3a
+file.0=D\:\\AndroidStudioProjects\\grdl.amando5\\amando5\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_71e874fd52538a5925ab50c19f7e990e591cb840\\classes.dex
